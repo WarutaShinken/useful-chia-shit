@@ -1,0 +1,10 @@
+The following HDDcoin HODL programs are currently available:
+-----------------------------------------------------------------------------------
+Name          Term  Rwd   Minimum  Description
+-----------------------------------------------------------------------------------
+PROMO-3M4       3M   4%    25 HDD  1st Year Promotion:  3 month commit,  4% reward
+PROMO-6M10      6M  10%    50 HDD  1st Year Promotion:  6 month commit, 10% reward
+PROMO-12M24    12M  24%   100 HDD  1st Year Promotion: 12 month commit, 24% reward
+-----------------------------------------------------------------------------------
+To commit funds to one of these programs, please use `hddcoin hodl commit`.
+HAPPY HODL'ING!!
